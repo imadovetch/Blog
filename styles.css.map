@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/SIte/test/hugo-theme-terminal",
+	"sourceRoot": "/home/SIte/blog",
 	"sources": [
 		"css/base.scss",
 		"assets/css/variables.scss",

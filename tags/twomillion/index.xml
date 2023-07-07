@@ -14,19 +14,17 @@
       <pubDate>Tue, 27 Jun 2023 15:06:26 +0100</pubDate>
       
       <guid>/posts/htb/</guid>
-      <description>Category Difficulty Web Easy Nmap-scan First, let&amp;rsquo;s initiate a quick scan utilizing nmap.
+      <description>Difficulty Easy Nmap-scan First, let&amp;rsquo;s initiate a quick scan utilizing nmap.
 We need to include &amp;ldquo;2million.htb&amp;rdquo; in our /etc/hosts file
-echo &amp;#34;10.10.11.221 2million.htb&amp;#34; &amp;gt;&amp;gt; /etc/hosts Trying to have access Upon visiting the website, I discovered it&amp;rsquo;s an outdated version of the HackTheBox platform. To gain access, I attempted to log in using the default credentials, but unfortunately, I received an error message indicating that the user not found.</description>
+echo &amp;#34;10.10.11.221 2million.htb&amp;#34; &amp;gt;&amp;gt; /etc/hosts Trying to have access Upon visiting the website, I discovered it&amp;rsquo;s an outdated version of the HackTheBox platform. To gain access, I attempted to log in using the default credentials, but unfortunately, I received an error message indicating that the user not found. While exploring the website, I discovered that I can join the platform by obtaining an invite code.</description>
       <content>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Category&lt;/th&gt;
 &lt;th&gt;Difficulty&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Web&lt;/td&gt;
 &lt;td&gt;Easy&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
