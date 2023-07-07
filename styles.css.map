@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/SIte/blog",
+	"sourceRoot": "/home/SIte/blog.bak",
 	"sources": [
 		"css/base.scss",
 		"assets/css/variables.scss",
